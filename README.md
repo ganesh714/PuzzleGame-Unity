@@ -34,14 +34,19 @@ Assets/
 ---
 ## 📸 Screenshots
 
-<h3>🏠 Home Page</h3>
-<img src="https://github.com/user-attachments/assets/1e048d27-8298-4f4c-81a5-d4db189bb02d" width="400"/>
+<p float="left" align="center">
+  <img src="https://github.com/user-attachments/assets/1e048d27-8298-4f4c-81a5-d4db189bb02d" width="300"/><br>
+  <b>🏠 Home Page</b>
+</p>
+<p float="left" align="center">
+  <img src="https://github.com/user-attachments/assets/00af95f0-0bae-4de9-b986-8a983b0398fc" width="300"/><br>
+  <b>🗂️ Levels Menu</b>
+</p>
+<p float="left" align="center">
+  <img src="https://github.com/user-attachments/assets/a5ddb4dd-8c4d-4e8e-a112-6bd68a1d14fe" width="300"/><br>
+  <b>🎮 Game Play</b>
+</p>
 
-<h3>🗂️ Levels Menu</h3>
-<img src="https://github.com/user-attachments/assets/00af95f0-0bae-4de9-b986-8a983b0398fc" width="400"/>
-
-<h3>🎮 Game Play</h3>
-<img src="https://github.com/user-attachments/assets/a5ddb4dd-8c4d-4e8e-a112-6bd68a1d14fe" width="400"/>
 
 ---
 
