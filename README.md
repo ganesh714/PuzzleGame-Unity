@@ -34,9 +34,9 @@ Assets/
 ---
 
 ## 📸 Screenshots
-![Image1](https://github.com/user-attachments/assets/1e048d27-8298-4f4c-81a5-d4db189bb02d)
-![Image2](https://github.com/user-attachments/assets/00af95f0-0bae-4de9-b986-8a983b0398fc)
-![Image3](https://github.com/user-attachments/assets/a5ddb4dd-8c4d-4e8e-a112-6bd68a1d14fe)
+![Home Page](https://github.com/user-attachments/assets/1e048d27-8298-4f4c-81a5-d4db189bb02d)
+![Levels Menu](https://github.com/user-attachments/assets/00af95f0-0bae-4de9-b986-8a983b0398fc)
+![Game Play](https://github.com/user-attachments/assets/a5ddb4dd-8c4d-4e8e-a112-6bd68a1d14fe)
 
 ---
 
