@@ -34,24 +34,10 @@ Assets/
 ---
 ## 📸 Screenshots
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+| 🏠 Home Page | 🗂️ Levels Menu | 🎮 Game Play |
+|-------------|----------------|--------------|
+| <img src="https://github.com/user-attachments/assets/1e048d27-8298-4f4c-81a5-d4db189bb02d" width="250"/> | <img src="https://github.com/user-attachments/assets/00af95f0-0bae-4de9-b986-8a983b0398fc" width="250"/> | <img src="https://github.com/user-attachments/assets/a5ddb4dd-8c4d-4e8e-a112-6bd68a1d14fe" width="250"/> |
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/1e048d27-8298-4f4c-81a5-d4db189bb02d" width="250" />
-    <p><strong>🏠 Home Page</strong></p>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/00af95f0-0bae-4de9-b986-8a983b0398fc" width="250" />
-    <p><strong>🗂️ Levels Menu</strong></p>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/a5ddb4dd-8c4d-4e8e-a112-6bd68a1d14fe" width="250" />
-    <p><strong>🎮 Game Play</strong></p>
-  </div>
-
-</div>
 
 
 
