@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b2ec185729b76747a5495c1e788d797, type: 3}
+  m_Name: S1StringsData
+  m_EditorClassIdentifier: 
+  questions:
+  - Following images form an animal name.!
+  - what is the value of MATH?
+  - Find the odd one out in the following images..?
+  - Find out the Fruit name represented in th following images..?
+  - 'Meena''s Mother has 5 daughters : Reena,Teena,Sheena,Sheela.who is the fifth
+    daughter?'
+  - From the following given glasses ,Which Glass will contain more Water in it.?
+  - What is missing in the given following Image .....?
+  - How many Triangles are there in the  given image..?
+  - If we eat seeds of this fruit ,we will die. what is that fruit..?
+  - We need that to Eat any food in our daily life. but we don't eat it..!
+  - You have 4 Cows, 3 dogs, 2 cats; How many legs do you have...?
+  - Solve the following word question...?
+  - How many holes are there in the given  Shirt..?
+  - He is the famous pop singer and dancer(Rockstar)..!
+  - Which door did you select 1 or 2 or 3..?
+  - A 11 letters Indian city name ..?
+  - which Cup will be  filled first ..?
+  - Which chain has to be breaked to unload the brick..?
+  - Find the missing Alphabet  in the given following pattren....?
+  - Find out the verb that is common in the following images..?
+  - What is the parking number of parking slot Under the Red colour Car..?
+  - Find the missing number in the given following pattren....?
+  - A Secrete Agency mailed some codes to its agent 116. In those the different one
+    is the Correct code for aggent..
+  - According to the given data ,Find out the Height of the Table...?
+  - Find the odd one..?
+  - A Man was murdered in his office....
+  - A Man was hang in his room.when police came there is water on the floor and the
+    room is empty.which item he is used to stand while Hanging.?
+  - Find the CODE for the locker...?
+  - what is the sum of all numbers(a+b+c+d)...?
+  - Pick any 3 cards from given below,such that the sum of their values must be 100.
+    [enter ans in Alphabetical order like ADG or BEF...]
+  answers:
+  - answers:
+    - donkey
+  - answers:
+    - 2385
+    - 240
+    - 18
+  - answers:
+    - pen
+  - answers:
+    - pomegranate
+  - answers:
+    - meena
+  - answers:
+    - d
+    - pin
+  - answers:
+    - r
+    - reverse
+  - answers:
+    - 3
+    - three
+  - answers:
+    - apple
+  - answers:
+    - plate
+  - answers:
+    - 2
+    - two
+  - answers:
+    - m
+  - answers:
+    - 8
+    - eight
+  - answers:
+    - michael jackson
+  - answers:
+    - 3
+    - 3rd
+    - third
+    - tiger
+  - answers:
+    - pondicherry
+  - answers:
+    - 3
+    - 3rd
+    - third
+  - answers:
+    - b
+  - answers:
+    - s
+  - answers:
+    - save
+  - answers:
+    - 87
+  - answers:
+    - 9
+  - answers:
+    - attack
+  - answers:
+    - 100
+    - hundred
+    - 100cm
+    - 100 cm
+  - answers:
+    - odd
+  - answers:
+    - jason
+  - answers:
+    - ice
+  - answers:
+    - god
+  - answers:
+    - 14
+  - answers:
+    - bdg
+  images:
+  - {fileID: 21300000, guid: e44ecec95abd79640a438c78673933d6, type: 3}
+  - {fileID: 21300000, guid: aa8372b9f3235ca4ea30344fca262555, type: 3}
+  - {fileID: 21300000, guid: 89df5e53f63372347a00755b2203023e, type: 3}
+  - {fileID: 21300000, guid: 1bcd691d5a60ecb468cbc6d5579e20f5, type: 3}
+  - {fileID: 21300000, guid: ff7f4bd6fbdd25d428cf3d1a72af18ed, type: 3}
+  - {fileID: 21300000, guid: 57ecd8dbdd23d7c4c996c0dcc2638160, type: 3}
+  - {fileID: 21300000, guid: ad3f36819281e654d91ad9a45bdfe528, type: 3}
+  - {fileID: 21300000, guid: b134126ecdd84fc4fa48ea9168dfeccc, type: 3}
+  - {fileID: 21300000, guid: 5d3280fc6a487764ba822d4661f498bb, type: 3}
+  - {fileID: 21300000, guid: 48cdb5b4097449b40bfb140bd9af0dc8, type: 3}
+  - {fileID: 21300000, guid: b83bb3f23ea92b64a8428ca382dc6941, type: 3}
+  - {fileID: 21300000, guid: 93b73f8e2c9898048b69f5dc6b69622c, type: 3}
+  - {fileID: 21300000, guid: f67a5e472fd9c1540a0648fbd2ddd00d, type: 3}
+  - {fileID: 21300000, guid: 3855021e0029d8f418878fe94aeffecf, type: 3}
+  - {fileID: 21300000, guid: 622f6bdcde6bf464ca961da5e25515e7, type: 3}
+  - {fileID: 21300000, guid: acfc65dab926c684581efdf72b426dce, type: 3}
+  - {fileID: 21300000, guid: 1cf02366e433d744db933f4060b32b07, type: 3}
+  - {fileID: 21300000, guid: f1df191d6863b134c85a8346468e7320, type: 3}
+  - {fileID: 21300000, guid: 23bc9b6a4cd19ca4caa7c90242396fda, type: 3}
+  - {fileID: 21300000, guid: 19d4a2747f487f0448a533ace552dd9f, type: 3}
+  - {fileID: 21300000, guid: 047833595cd49c14792855ee750bf749, type: 3}
+  - {fileID: 21300000, guid: 51a0760f5a6c29b48bd2d0e58b840126, type: 3}
+  - {fileID: 21300000, guid: 75234901855ce9145a7691fd8f32622c, type: 3}
+  - {fileID: 21300000, guid: bfe972b5649a0f744a2288fd48b0fd38, type: 3}
+  - {fileID: 21300000, guid: 8dc12c666ff7d0143b9f176f45a80de4, type: 3}
+  - {fileID: 21300000, guid: 62a79cf05c35e5f48a54abf339df025c, type: 3}
+  - {fileID: 21300000, guid: 1911d7d33864f3045854de33b278d393, type: 3}
+  - {fileID: 21300000, guid: 577388b765334d84cb222d7c6b2c09f5, type: 3}
+  - {fileID: 21300000, guid: c4a9d0aa8d9668343ad304d312de4315, type: 3}
+  - {fileID: 21300000, guid: 0eb6b241fb1e41942bf4287ae5f30227, type: 3}
+  hints:
+  - {fileID: 21300000, guid: ddeaae2bf02c5044c8baf57401779af7, type: 3}
+  AnsExp:
+  - {fileID: 21300000, guid: b177e539e468ca849b75a62611295355, type: 3}
